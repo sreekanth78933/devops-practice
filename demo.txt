@@ -7,10 +7,9 @@ testing
 practice java code
 demo
 test merging
-<<<<<<< HEAD
 test
-=======
 ttttt
->>>>>>> test
 devops practice - cicd pipeline
+sample code
 testing
+
